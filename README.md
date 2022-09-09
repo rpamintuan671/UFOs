@@ -1,6 +1,6 @@
 # UFO Sightings
-![](static/images/Header%20photo.png)
 
+![](static/images/Header%20photo.png)
 
 ## Overview of the Project:
 
